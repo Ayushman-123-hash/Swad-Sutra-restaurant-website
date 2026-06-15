@@ -6,7 +6,7 @@ Swad Sutra is a modern, responsive restaurant website designed to deliver an eng
 
 ## 🌐 Live Demo
 
-> Add your deployed website link here.
+> https://swadsutra.netlify.app/
 
 ---
 
