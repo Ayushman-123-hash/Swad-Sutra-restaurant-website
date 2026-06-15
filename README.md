@@ -1,29 +1,109 @@
-# 🍲 SwadSutra | Authentic Flavors, Modern Dining
+# 🍽️ Swad Sutra
 
-**SwadSutra** is a modern, high-performance, and **100% Responsive** restaurant website. It is designed to provide a seamless food-browsing experience across all devices (Mobile, Tablet, and Desktop).
+Swad Sutra is a modern, responsive restaurant website designed to deliver an engaging digital dining experience. The project showcases delicious food items, restaurant services, chef information, customer testimonials, and contact details through an elegant and user-friendly interface.
 
-## 🚀 Key Features
-* **Fully Responsive Design:** Crafted with CSS Flexbox and Media Queries for a perfect look on any screen size.
-* **Sticky Navigation:** Easy access to all sections with a smooth scrolling experience.
-* **Interactive Menu:** Showcasing chef-special dishes with a clean card-based layout.
-* **Modern UI/UX:** High-quality imagery, hover effects, and a professional dark-themed navigation bar.
-* **Contact System:** A dedicated functional-ready contact form for user inquiries.
-* **Hamburger Menu:** Custom-built mobile navigation for better accessibility.
+---
+
+## 🌐 Live Demo
+
+> Add your deployed website link here.
+
+---
+
+## ✨ Features
+
+* 🍕 Modern Restaurant Landing Page
+* 📱 Fully Responsive Design
+* 🍔 Food Menu Section
+* 👨‍🍳 Chef Introduction
+* ⭐ Customer Testimonials
+* 🏠 About Restaurant
+* 📞 Contact Section
+* 🖼️ Attractive Food Gallery
+* 🎨 Smooth UI & Animations
+* ⚡ Fast Loading Experience
+
+---
 
 ## 🛠️ Tech Stack
-* **HTML5:** Semantic structure for better SEO.
-* **CSS3:** Custom styling with Variables, Flexbox, and Animations.
-* **JavaScript:** Logic for the responsive mobile menu.
-* **Google Fonts:** Used 'Baloo Bhai 2' and 'Bree Serif' for a premium look.
 
-## 📸 Screenshots
-*(Tip: Add your website screenshots here later to make it look even better!)*
+* HTML5
+* CSS3
+* JavaScript
 
-## 📂 Project Structure
+---
+
+## 📂 Folder Structure
+
 ```text
-├── Css/
-│   └── style.css
-├── client/          # Partner logos (Swiggy, Pepsi, etc.)
-├── index.html       # Main entry point
-├── logo.jpg         # Branding
-└── favicon.ico      # Site icon
+Swad-Sutra
+│
+├── assets
+├── css
+├── images
+├── js
+├── index.html
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Ayushman-123-hash/Swad-Sutra.git
+```
+
+Move to project
+
+```bash
+cd Swad-Sutra
+```
+
+Run the project by opening **index.html** in your browser.
+
+---
+
+## 📸 Preview
+
+> Add screenshots of the homepage, menu section, and mobile view here.
+
+---
+
+## 📌 Highlights
+
+* Clean & Elegant UI
+* Responsive Layout
+* User-Friendly Navigation
+* Organized Code Structure
+* Mobile Optimized
+* Beginner Friendly
+
+---
+
+## 🔮 Future Improvements
+
+* 🍽️ Online Table Reservation
+* 🛒 Food Ordering System
+* ❤️ Wishlist Feature
+* 🔍 Search Menu
+* 🌙 Dark Mode
+* 💳 Online Payment Integration
+* 📍 Google Maps Integration
+* 📧 Contact Form Backend
+
+---
+
+## 👨‍💻 Author
+
+**Ayushman Thakur**
+
+Frontend Developer
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
